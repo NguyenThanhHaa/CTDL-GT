@@ -2,12 +2,12 @@
 
 Ham quay lui(x)
 {
-	if (x khÙng phai la giai phap)
-        Tra ve false;
+	if (x kh√¥ng phai la giai phap)
+        	Tra ve false;
         
-    if (x la mot giai phap moi)
-        Them v‡o danh s·ch c·c giai phap; 
+    	if (x la mot giai phap moi)
+        	Them vao danh s√°ch c√°c giai phap; 
         
-    Ham quay lui(mo rong/ trien khai them cho x) 
+    Ham quay lui(mo rong/ trien khai them cho x); 
 }
     
