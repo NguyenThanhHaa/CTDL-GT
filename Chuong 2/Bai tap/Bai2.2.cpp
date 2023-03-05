@@ -17,5 +17,5 @@ int main()
 {	int n; 
 	cout << "Nhap n: ";
 	cin >> n;
-	cout <<"Giai thua cua n: " << Giaithua(n); 
+	cout <<"Giai thua cua << n << " la: " << Giaithua(n); 
  } 
