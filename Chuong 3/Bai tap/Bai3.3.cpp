@@ -43,9 +43,6 @@ int main()
 	for(int i=0; i<n; i++)
 	{
 		cin >> a[i];
-		
-		if (a[i]==0)
-			break; 
 	}
 	
 	BubbleSort(a,n);
